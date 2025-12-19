@@ -1,4 +1,3 @@
-# README
 
 # Bulk RNA-Seq Data Analysis – Hypoxia Response in Prostate Cancer Cell Lines
 
